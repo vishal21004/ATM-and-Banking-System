@@ -8,15 +8,26 @@
 To develop the ATM and Banking System using Star UML
 
 # Problem Statement:
-1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
+1.Banks need to provide fast, secure, and self-service access to basic banking functionalities.
 
-2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
+2.Manual banking for simple tasks (like cash withdrawal or balance inquiry) leads to long queues and inefficient use of bank staff.
 
-3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
+3.There is a lack of consistent and secure user authentication in some older systems.
 
-4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
+4.Existing ATM systems may not be user-friendly or may lack multilingual support.
 
-5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+5.Customers require 24/7 access to basic banking services without depending on bank working hours.
+
+6.A reliable ATM software system is needed to:
+
+7.Allow users to securely access their accounts using ATM cards and PIN.
+
+8.Enable operations like cash withdrawal, balance inquiry, mini statement printing, and PIN change.
+
+9.Ensure real-time processing and data consistency with the core banking system.
+
+10.Provide a simple and intuitive user interface.
+
 
 UML DIAGRAMS
 
