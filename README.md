@@ -29,7 +29,7 @@ To develop the ATM and Banking System using Star UML
 10.Provide a simple and intuitive user interface.
 
 
-UML DIAGRAMS
+# UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
