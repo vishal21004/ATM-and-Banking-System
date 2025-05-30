@@ -1,7 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
 # Reg No:212222230177
 # Name:VISHAL M.A
-# Date:24/02/25
 
 
 # AIM:
